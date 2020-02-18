@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+
+</head>
+<body>
+<input type="button" id = "btn" value = "click me"/>
+
+</body>
+</html>
