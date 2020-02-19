@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>third party</title>
+</head>
+<body>
+<label>chicken</label>
+<input type ="text" id = "text_box"/>
+</body>
+</html>
